@@ -804,6 +804,8 @@ img {
   display: flex;
   flex-direction: column;
   gap: 0.75rem;
+  padding-left: 10px;
+  
 }
 
 .footer__link {
