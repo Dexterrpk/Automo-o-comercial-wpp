@@ -753,6 +753,7 @@ img {
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 3rem;
   padding: 4rem 0 2rem;
+  padding-left: 10px;
 }
 
 .footer__logo {
