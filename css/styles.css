@@ -802,6 +802,7 @@ img {
 .footer__title {
   font-size: var(--h3-font-size);
   margin-bottom: 1.5rem;
+  color: white;
 }
 
 .footer__links {
